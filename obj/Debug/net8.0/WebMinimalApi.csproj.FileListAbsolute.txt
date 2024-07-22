@@ -29,3 +29,4 @@ C:\Users\Moises\source\repos\WebMinimalApi\bin\Debug\net8.0\DPFPShrNET.dll
 C:\Users\Moises\source\repos\WebMinimalApi\bin\Debug\net8.0\DPFPVerNET.dll
 C:\Users\Moises\source\repos\WebMinimalApi\obj\Debug\net8.0\WebMinimalApi.csproj.AssemblyReference.cache
 C:\Users\Moises\source\repos\WebMinimalApi\obj\Debug\net8.0\WebMinim.9A65D7B2.Up2Date
+C:\Users\Moises\source\repos\WebMinimalApi\obj\Debug\net8.0\WebMinimalApi.sourcelink.json

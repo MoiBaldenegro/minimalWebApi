@@ -22,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VerifyUser.cs",
-              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\WebMinimalApi\\Services\\VerifyUser.cs",
-              "RelativeDocumentMoniker": "Services\\VerifyUser.cs",
-              "ToolTip": "C:\\Users\\Moises\\source\\repos\\WebMinimalApi\\Services\\VerifyUser.cs",
-              "RelativeToolTip": "Services\\VerifyUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T18:52:21.981Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -51,7 +38,8 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-19T18:01:24.363Z"
+              "WhenOpened": "2024-07-19T18:01:24.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +49,23 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Moises\\source\\repos\\WebMinimalApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCYAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:54:46.587Z"
+              "WhenOpened": "2024-07-19T17:54:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerifyUser.cs",
+              "DocumentMoniker": "C:\\Users\\Moises\\source\\repos\\WebMinimalApi\\Services\\VerifyUser.cs",
+              "RelativeDocumentMoniker": "Services\\VerifyUser.cs",
+              "ToolTip": "C:\\Users\\Moises\\source\\repos\\WebMinimalApi\\Services\\VerifyUser.cs",
+              "RelativeToolTip": "Services\\VerifyUser.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowCsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:52:21.981Z",
+              "EditorCaption": ""
             }
           ]
         }
